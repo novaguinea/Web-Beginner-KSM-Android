@@ -1,0 +1,22 @@
+
+Bikin website tema sesuai dengan API yang digunakan dengan spesifikasi:
+
+1. Register
+2. Login
+3. View Profile (ada foto lebih baik)
+4. Edit Profile
+5. GET data from API (tiap anak beda api yaa!)
+
+Resources:
+https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
+atau lainnya
+
+Rekomendasi default avatar:
+https://avatars.dicebear.com/
+
+Waktu Final Project
+hari, tanggal: Minggu, 19 Desember 2021
+pukul: 09.00
+tempat: Google Meet
+
+Good Luck!
